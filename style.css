@@ -418,6 +418,14 @@ article.conteudo-receitas #info-titulo{
     align-items: baseline;
 }
 
+#light .info-receitas .title-receitas{
+    font-size: 20px;
+    color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
 .info-receitas span{
     color: #756A67;
     font-family: 'Inter', sans-serif;
@@ -555,7 +563,6 @@ footer #last{
         justify-content: center;
     }
 }
-
 
 @media (max-width: 598px){
     #container-imagens{
